@@ -70,7 +70,7 @@
       <label for="studentName">Student Name</label>
       <input type="text" id="studentName" name="studentName" required>
 
-      <label for="fatherName">Father’s Name</label>
+      <label for="fatherName">Father Name</label>
       <input type="text" id="fatherName" name="fatherName" required>
 
       <label for="address">Address</label>
